@@ -1,6 +1,6 @@
-# SQL-Airline-DB-Project
-
 # ✈️ Airline Database Capstone Project 
+
+
 # URL Link :- https://www.skillovilla.com/playground/sql?exerciseId=0181e251-6ea8-4595-ae2b-0c690119f8db
 
 This repository contains SQL queries and supporting scripts for an Airline Database Capstone project. The project is aimed at solving various real-world problems using SQL queries such as seat allocation, flight schedules, and passenger details.
